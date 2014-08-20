@@ -12,3 +12,8 @@ An AngularJS directive for file upload using HTML5 with FileAPI polyfill for uns
 An AngularJS service for using the Facebook JavaScript API.  The API is usually loaded asyncronously, this takes care of the race condition issues that arrise from that.
 
 [https://github.com/Ciul/angular-facebook](https://github.com/Ciul/angular-facebook)
+
+### ng-csv
+Simple directive that turns arrays and objects into downloadable CSV files
+
+[https://github.com/asafdav/ng-csv](https://github.com/asafdav/ng-csv)

@@ -9,7 +9,7 @@ An AngularJS directive for file upload using HTML5 with FileAPI polyfill for uns
 [https://github.com/danialfarid/angular-file-upload](https://github.com/danialfarid/angular-file-upload)
 
 ### angular-facebook
-An AngularJS service for using the Facebook JavaScript API.  The API is usually loaded asyncronously, this takes care of the race condition issues that arrise from that.
+An AngularJS service for using the Facebook JavaScript API.  The API is usually loaded asyncronously, this takes care of the race condition issues that arise from that.
 
 [https://github.com/Ciul/angular-facebook](https://github.com/Ciul/angular-facebook)
 

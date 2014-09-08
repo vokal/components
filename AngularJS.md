@@ -17,3 +17,15 @@ An AngularJS service for using the Facebook JavaScript API.  The API is usually 
 Simple directive that turns arrays and objects into downloadable CSV files
 
 [https://github.com/asafdav/ng-csv](https://github.com/asafdav/ng-csv)
+
+### angular-table
+Angular directive which allows to declare sortable tables and to add pagination with very little effort.
+
+[https://github.com/samu/angular-table](https://github.com/samu/angular-table)
+
+### ngDialog
+Modals and popups provider for Angular.js applications
+
+[https://github.com/likeastore/ngDialog](https://github.com/likeastore/ngDialog)
+
+

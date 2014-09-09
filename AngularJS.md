@@ -28,4 +28,7 @@ Modals and popups provider for Angular.js applications
 
 [https://github.com/likeastore/ngDialog](https://github.com/likeastore/ngDialog)
 
+### angular-local-storage
+An AngularJS module that gives you access to the browsers local storage with cookie fallback
 
+[https://github.com/grevory/angular-local-storage](https://github.com/grevory/angular-local-storage)

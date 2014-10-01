@@ -3,6 +3,11 @@ Angular JS
 
 The following is a list of helpful Angular JS components (directives, services, etc)
 
+### angular-local-storage (fixes localStorage issues in Safari)
+An AngularJS module that gives you access to the browsers local storage with cookie fallback
+
+[https://github.com/grevory/angular-local-storage](https://github.com/grevory/angular-local-storage)
+
 ### angular-file-upload
 An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers. This makes posting multipart form data with files super easy.
 
